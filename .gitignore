@@ -1,0 +1,11 @@
+project/
+target/
+.idea/
+.sonar/
+.classpath
+.project
+.worksheet
+*.sc
+*~
+elasticsearch-data
+spark-*-bin-hadoop*

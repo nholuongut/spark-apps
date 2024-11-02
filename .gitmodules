@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/nholuongut/lib-java
+[submodule "bash-tools"]
+	path = bash-tools
+	url = https://github.com/nholuongut/bash-tools
